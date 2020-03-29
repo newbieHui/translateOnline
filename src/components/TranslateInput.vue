@@ -12,9 +12,7 @@
           <option value="ru">俄语</option>
         </select>
         <div class="submitButton">
-          <input class="button" type="submit" value="翻译
-
-">
+          <input class="button" type="submit" value="翻译">
         </div>
       </div>
     </form>
